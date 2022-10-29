@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572830587011",
+    "project_id": "loginpage-cab05",
+    "storage_bucket": "loginpage-cab05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572830587011:android:a12fedebaac3461a8663b6",
+        "android_client_info": {
+          "package_name": "com.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572830587011-ppc9ionk2qvjamri7pd00107fqofeolf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4P0kZ5fYHHcJ3VeJcVTdGivgtw8tJv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572830587011-ppc9ionk2qvjamri7pd00107fqofeolf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
