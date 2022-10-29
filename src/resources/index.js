@@ -1,0 +1,1 @@
+export commonView from './commonView';

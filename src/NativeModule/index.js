@@ -1,0 +1,1 @@
+export RNToastModule from './CustomModule';
